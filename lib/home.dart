@@ -14,7 +14,7 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePage extends State<MyHomePage> {
   Future<String> weather() async {
-    String key = '57469bdd737a35670d966f80a8d64451';
+    String key = 'xxxxxxx';
     String url = 'http://api.openweathermap.org/data/2.5/weather?';
     String fullurl = url + "q=" + city + "&appid=" + key;
     Uri fullurl1 = Uri.parse(fullurl);
