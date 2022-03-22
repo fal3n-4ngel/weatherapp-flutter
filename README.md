@@ -1,6 +1,6 @@
 # Weather App v1.0.1
 
-<img src="https://github.com/fal3n-4ngel/weatherapp-flutter/blob/main/screenshots/weather%20cover.png" />
+<img src="https://github.com/fal3n-4ngel/weatherapp-flutter/blob/main/screenshots/logo1.png" />
 <img align="left" src="https://github.com/fal3n-4ngel/weatherapp-flutter/blob/main/playstore.png" width="400" height="380" />
 
 ## About
