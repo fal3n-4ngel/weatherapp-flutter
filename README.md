@@ -1,10 +1,9 @@
 # Weather App v1.0.1
 
 <img src="https://github.com/fal3n-4ngel/weatherapp-flutter/blob/main/screenshots/weather%20cover.png" />
-
 <img align="left" src="https://github.com/fal3n-4ngel/weatherapp-flutter/blob/main/playstore.png" width="400" height="380" />
-
-The same old Weather App, But 'In Flutter , By Me' .
+## About
+ The same old Weather App, But 'In Flutter , By Me' .
 ## NB 
  Still in developement
 ## Stats
