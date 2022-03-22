@@ -1,7 +1,7 @@
 # Cupid Meter (v2.1.2)
 
 <img align="left" src="https://github.com/fal3n-4ngel/weatherapp-flutter/blob/main/playstore.png" width="400" height="380" />
-The same old Weather App, But ' In Flutter , By Me '
+The same old Weather App, But 'In Flutter , By Me' .
 
 ## Stats
 
