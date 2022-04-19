@@ -34,7 +34,7 @@
 
 ## Pictures
 
-<img align ="left" src ="https://github.com/fal3n-4ngel/weatherapp-flutter/blob/main/screenshots/logo.png">
+<img align ="left" src ="https://github.com/fal3n-4ngel/weatherapp-flutter/blob/v2/screenshots/logo.png">
 
 ## Contributors
 
