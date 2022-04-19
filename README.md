@@ -10,7 +10,7 @@
 ## Stats
 
 ```markdown
-### v1.0.1
+### v2.01.2
   - Started a Basic outline of the code
   - Used openweathermap api 
 ### Fixed Bugs
