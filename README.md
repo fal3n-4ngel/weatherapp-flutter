@@ -13,7 +13,7 @@
 ### v1.0.1
   - Started a Basic outline of the code
   - Used openweathermap api 
-### Known Bugs
+### Fixed Bugs
   - Lagging..
   - Weather not updating sometimes
   - a useless 2nd page(created for dev purposes)
