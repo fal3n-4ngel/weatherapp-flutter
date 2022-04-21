@@ -11,12 +11,11 @@
 
 ```markdown
 ### v2.01.2
-  - Started a Basic outline of the code
+  - Added new images
+  - Fixed lagging
+  - Enabled network access
   - Used openweathermap api 
-### Fixed Bugs
-  - Lagging..
-  - Weather not updating sometimes
-  - a useless 2nd page(created for dev purposes)
+
 ```
 
 ## Frameworks and Languages Used
